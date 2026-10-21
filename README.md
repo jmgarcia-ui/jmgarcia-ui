@@ -10,7 +10,7 @@ Soy estudiante de 9° ciclo de Ingeniería de Sistemas Computacionales en la Uni
     -Node.js
     -Tailwind CSS
 - 💼 He trabajado en sistemas internos de empresa: usuarios, roles y permisos, asistencia, seguimiento de actividades y facturación electrónica.
-- 🚀 Mi proyecto destacado: Sistema inteligente de preselección TI, filtrado de CVs con IA y revisión humana (ver demo).
+- 🚀 Mi proyecto destacado: Sistema inteligente de preselección TI, filtrado de CVs con IA y revisión humana <a href="https://blue-plant-017ce3910.4.azurestaticapps.net/">(ver demo)</a>.
 - 💡 Me gusta explorar tecnologías nuevas, sobre todo IA aplicada a sistemas empresariales.
 - 💬 Escríbeme si quieres hablar de un proyecto o colaborar.
 - 📫 Contáctame en: marcogarc27@gmail.com
